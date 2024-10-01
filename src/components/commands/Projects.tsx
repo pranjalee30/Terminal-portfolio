@@ -77,7 +77,7 @@ const projects = [
     id: 3,
     title: "Dev Detective",
     desc: "A page where you can navigate anyone github  profile by username and visit their favourite Repositories",
-    url: "https://devdetective-sigma.vercel.app/",
+    url: "https://devdetective-by-pranjal.vercel.app/",
   },
   {
     id: 4,
